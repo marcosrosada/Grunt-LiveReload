@@ -1,0 +1,18 @@
+{
+  "name": "appwatch",
+  "version": "1.0.0",
+  "description": "Testing watch livereload",
+  "author": "Marcos Rosada <marcosfrosada@gmail.com>",
+  "license": "ISC",
+  "keywords": [
+    "AngularJS",
+    "javascript",
+    "express",
+    "node"
+  ],
+  "devDependencies": {
+    "grunt-cli": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express": "^1.4.1"
+  }
+}
